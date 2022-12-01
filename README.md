@@ -13,21 +13,21 @@
 <h2>Project Screenshots:</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/5EsP6Wr.png" alt="project-screenshot" width="500" height="500/">
+<img src="https://i.imgur.com/5EsP6Wr.png" alt="project-screenshot" width="300" height="300/">
 
-<img src="https://i.imgur.com/WzOFoWA.png" alt="project-screenshot" width="500" height="500/">
+<img src="https://i.imgur.com/WzOFoWA.png" alt="project-screenshot" width="300" height="300/">
 
-<img src="https://i.imgur.com/ldMgN88.png" alt="project-screenshot" width="500" height="500/">
+<img src="https://i.imgur.com/ldMgN88.png" alt="project-screenshot" width="300" height="300/">
 
-<img src="https://i.imgur.com/Pxlv4C7.png" alt="project-screenshot" width="500" height="500/">
+<img src="https://i.imgur.com/Pxlv4C7.png" alt="project-screenshot" width="300" height="300/">
 
-<img src="https://i.imgur.com/973xvSg.png" alt="project-screenshot" width="500" height="500/">
+<img src="https://i.imgur.com/973xvSg.png" alt="project-screenshot" width="300" height="300/">
 
-<img src="https://i.imgur.com/6SfFCx2.png" alt="project-screenshot" width="500" height="500/">
+<img src="https://i.imgur.com/6SfFCx2.png" alt="project-screenshot" width="300" height="300/">
 
-<img src="https://i.imgur.com/Mnt6Una.png" alt="project-screenshot" width="500" height="500/">
+<img src="https://i.imgur.com/Mnt6Una.png" alt="project-screenshot" width="300" height="300/">
 
-<img src="https://i.imgur.com/am6sNyM.png" alt="project-screenshot" width="500" height="500/">
+<img src="https://i.imgur.com/am6sNyM.png" alt="project-screenshot" width="300" height="300/">
 </p>
 
   
